@@ -1,6 +1,6 @@
 <?php
 session_start(); // Memulai sesi PHP untuk menggunakan variabel session
-
+//marlina setya ningrum sudah di cek pMoko
 include "koneksi.php"; // Menyertakan file koneksi.php yang berisi kode untuk menghubungkan ke database
 
 // Mengecek apakah parameter 'id' ada di URL
